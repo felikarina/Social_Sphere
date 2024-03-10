@@ -34,6 +34,6 @@ Gestion des sessions et de l'authentification des utilisateurs.
 
 Requêtes et interactions avec une base de données MySQL. 
 
-# AUTEURS
+## AUTEURS
 
 Ce projet a été réalisé en collaboration par [Karina](https://github.com/felikarina), [Tom](https://github.com/Stoyots) & Rayan.
