@@ -1,10 +1,10 @@
-# RESEAU SOCIAL : SOCIALSPHERE
+## RESEAU SOCIAL : SOCIALSPHERE
 
-# DESCRIPTION
+## DESCRIPTION
 
 Le projet de Réseau Social est une plateforme web développée en PHP avec une base de données pour permettre aux utilisateurs de s'authentifier, de gérer leurs sessions et de publier des messages. Le site offre un mur où les utilisateurs peuvent consulter les derniers messages de chaque utilisateur, similaire à Facebook. 
 
-# FONCTIONALITES
+## FONCTIONALITES
 
 Authentification : Les utilisateurs peuvent s'identifier pour accéder à leur messagerie personnelle. 
 
@@ -18,13 +18,13 @@ Hashage des mots de passe : Les mots de passe des utilisateurs sont sécurisés 
 
 Dynamisme du site : Les noms d'utilisateurs, les nombres de likes, les liens et d'autres éléments sont générés dynamiquement en fonction de l'interaction des utilisateurs avec le site. Cela crée une expérience utilisateur fluide et personnalisée, s'adaptant à l'utilisation du site au fil du temps. 
 
-# TECHNOLOGIES UTILISEES
+## TECHNOLOGIES UTILISEES
 
 HTML & CSS pour le front.
 PHP pour le back.
 Mysql et MAMP pour la base de données.
 
-# COMPETENCES
+## COMPETENCES
 
 Génération de code HTML à partir de PHP. 
 
